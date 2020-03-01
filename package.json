@@ -11,7 +11,7 @@
         "jquery": "^3.4.1",
         "sass-lint": "^1.13.1",
         "webpack-notifier": "^1.6.0",
-        "yarn": "^1.21.0"
+        "yarn": "^1.22.0"
     },
     "license": "UNLICENSED",
     "private": true,
