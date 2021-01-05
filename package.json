@@ -22,7 +22,7 @@
         "build": "encore production --progress"
     },
     "dependencies": {
-        "axios": "^0.19.1",
+        "axios": "^0.21.1",
         "jquery": "^3.4.1",
         "node-sass": "^4.13.0",
         "sass-loader": "^7.0.1"
